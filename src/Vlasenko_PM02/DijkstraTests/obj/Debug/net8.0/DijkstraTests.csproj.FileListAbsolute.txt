@@ -1,0 +1,7 @@
+C:\Users\vlase\VlasenkoH\src\Vlasenko_PM02\DijkstraTests\bin\Debug\net8.0\CoverletSourceRootsMapping_DijkstraTests
+C:\Users\vlase\VlasenkoH\src\Vlasenko_PM02\DijkstraTests\obj\Debug\net8.0\DijkstraTests.csproj.AssemblyReference.cache
+C:\Users\vlase\VlasenkoH\src\Vlasenko_PM02\DijkstraTests\obj\Debug\net8.0\DijkstraTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlase\VlasenkoH\src\Vlasenko_PM02\DijkstraTests\obj\Debug\net8.0\DijkstraTests.AssemblyInfoInputs.cache
+C:\Users\vlase\VlasenkoH\src\Vlasenko_PM02\DijkstraTests\obj\Debug\net8.0\DijkstraTests.AssemblyInfo.cs
+C:\Users\vlase\VlasenkoH\src\Vlasenko_PM02\DijkstraTests\obj\Debug\net8.0\DijkstraTests.csproj.CoreCompileInputs.cache
+C:\Users\vlase\VlasenkoH\src\Vlasenko_PM02\DijkstraTests\obj\Debug\net8.0\DijkstraTests.sourcelink.json

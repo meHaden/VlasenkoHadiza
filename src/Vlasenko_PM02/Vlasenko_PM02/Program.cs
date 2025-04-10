@@ -82,8 +82,9 @@ class Program
         }
     }
 
+
     // Алгоритм Дейкстры
-    private static double[] Dijkstra(double[,] a, int v0)
+    public static double[] Dijkstra(double[,] a, int v0)
     {
         double[] dist = new double[n];
         bool[] vis = new bool[n];

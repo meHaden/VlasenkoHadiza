@@ -1,0 +1,15 @@
+C:\Users\vlase\VlasenkoH\src\Vlasenko_PM02\Vlasenko_PM02\bin\Debug\net8.0\Vlasenko_PM02.exe
+C:\Users\vlase\VlasenkoH\src\Vlasenko_PM02\Vlasenko_PM02\bin\Debug\net8.0\Vlasenko_PM02.deps.json
+C:\Users\vlase\VlasenkoH\src\Vlasenko_PM02\Vlasenko_PM02\bin\Debug\net8.0\Vlasenko_PM02.runtimeconfig.json
+C:\Users\vlase\VlasenkoH\src\Vlasenko_PM02\Vlasenko_PM02\bin\Debug\net8.0\Vlasenko_PM02.dll
+C:\Users\vlase\VlasenkoH\src\Vlasenko_PM02\Vlasenko_PM02\bin\Debug\net8.0\Vlasenko_PM02.pdb
+C:\Users\vlase\VlasenkoH\src\Vlasenko_PM02\Vlasenko_PM02\obj\Debug\net8.0\Vlasenko_PM02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlase\VlasenkoH\src\Vlasenko_PM02\Vlasenko_PM02\obj\Debug\net8.0\Vlasenko_PM02.AssemblyInfoInputs.cache
+C:\Users\vlase\VlasenkoH\src\Vlasenko_PM02\Vlasenko_PM02\obj\Debug\net8.0\Vlasenko_PM02.AssemblyInfo.cs
+C:\Users\vlase\VlasenkoH\src\Vlasenko_PM02\Vlasenko_PM02\obj\Debug\net8.0\Vlasenko_PM02.csproj.CoreCompileInputs.cache
+C:\Users\vlase\VlasenkoH\src\Vlasenko_PM02\Vlasenko_PM02\obj\Debug\net8.0\Vlasenko_PM02.sourcelink.json
+C:\Users\vlase\VlasenkoH\src\Vlasenko_PM02\Vlasenko_PM02\obj\Debug\net8.0\Vlasenko_PM02.dll
+C:\Users\vlase\VlasenkoH\src\Vlasenko_PM02\Vlasenko_PM02\obj\Debug\net8.0\refint\Vlasenko_PM02.dll
+C:\Users\vlase\VlasenkoH\src\Vlasenko_PM02\Vlasenko_PM02\obj\Debug\net8.0\Vlasenko_PM02.pdb
+C:\Users\vlase\VlasenkoH\src\Vlasenko_PM02\Vlasenko_PM02\obj\Debug\net8.0\Vlasenko_PM02.genruntimeconfig.cache
+C:\Users\vlase\VlasenkoH\src\Vlasenko_PM02\Vlasenko_PM02\obj\Debug\net8.0\ref\Vlasenko_PM02.dll

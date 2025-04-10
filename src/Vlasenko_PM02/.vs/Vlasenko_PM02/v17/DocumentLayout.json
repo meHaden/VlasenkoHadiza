@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{AC6941DF-91BF-46DC-A718-659F4E47C954}|Vlasenko_PM02\\Vlasenko_PM02.csproj|c:\\users\\vlase\\vlasenkoh\\src\\vlasenko_pm02\\vlasenko_pm02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC6941DF-91BF-46DC-A718-659F4E47C954}|Vlasenko_PM02\\Vlasenko_PM02.csproj|solutionrelative:vlasenko_pm02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A59AC43-B46C-460F-990D-FFB70AD2C778}|DijkstraTests\\DijkstraTests.csproj|c:\\users\\vlase\\vlasenkoh\\src\\vlasenko_pm02\\dijkstratests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A59AC43-B46C-460F-990D-FFB70AD2C778}|DijkstraTests\\DijkstraTests.csproj|solutionrelative:dijkstratests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,11 +32,28 @@
         },
         {
           "DockedWidth": 93,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\vlase\\VlasenkoH\\src\\Vlasenko_PM02\\DijkstraTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "DijkstraTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\vlase\\VlasenkoH\\src\\Vlasenko_PM02\\DijkstraTests\\UnitTest1.cs",
+              "RelativeToolTip": "DijkstraTests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T12:20:45.374Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -42,14 +63,10 @@
               "RelativeDocumentMoniker": "Vlasenko_PM02\\Program.cs",
               "ToolTip": "C:\\Users\\vlase\\VlasenkoH\\src\\Vlasenko_PM02\\Vlasenko_PM02\\Program.cs",
               "RelativeToolTip": "Vlasenko_PM02\\Program.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAQwFQAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAzwG0AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T11:17:35.421Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

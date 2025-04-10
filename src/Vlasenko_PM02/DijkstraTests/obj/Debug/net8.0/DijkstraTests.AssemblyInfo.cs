@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Vlasenko_PM02")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("DijkstraTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c6b08133568a618ba68f41fbb2b95c5bd18a2e2")]
-[assembly: System.Reflection.AssemblyProductAttribute("Vlasenko_PM02")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Vlasenko_PM02")]
+[assembly: System.Reflection.AssemblyProductAttribute("DijkstraTests")]
+[assembly: System.Reflection.AssemblyTitleAttribute("DijkstraTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
